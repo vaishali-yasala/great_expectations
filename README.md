@@ -4,5 +4,9 @@ When new data is ingested from any source, it can be transformed as part of the 
 
 ## Expectations
 What are Expectations?
-Expectations are assertions about your data. And how do you define an assertion. For example, we use assertions to check a particular condition is always true or if any values stray from it. Great Expectations library currently provides over 300 built-in Expectations, and additionally you to write custom Expectations.
+Expectations are assertions about your data. And how do you define an assertion. For example, we use assertions to check a particular condition is always true or if any values stray from it. Great Expectations library currently provides over 300 built-in Expectations, and additionally you can write custom Expectations.
+
+## Definitions to understand
+[<b>Data Context </b>](https://github.com/vaishali-yasala/great_expectations/tree/main/datacontext)- The primary entry point for a Great Expectations deployment, with configurations and methods for all supporting components.
+
 
