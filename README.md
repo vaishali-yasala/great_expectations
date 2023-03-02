@@ -1,1 +1,2 @@
 # great_expectations
+Let us understand how to validate, document, and profile your data to maintain quality and improve communication between teams. It helps us understand what to expect from the data we load and transform, and catch any data issues quickly. With the help of Great Expectations, we can also create data documentation and data quality reports from basically creating unit tests for given data. 
