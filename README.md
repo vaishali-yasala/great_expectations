@@ -23,6 +23,8 @@ Expectations are assertions about your data. And how do you define an assertion.
 
 [<b> Metrics </b>](https://github.com/vaishali-yasala/great_expectations/tree/main/metrics) - A Metric is a computed attribute of data such as the mean of a column.
 
+[<b> Validation </b>](https://github.com/vaishali-yasala/great_expectations/tree/main/validation) - Validation is the act of applying an Expectation Suite to a Batch.
+
 [<b> Validator </b>](https://github.com/vaishali-yasala/great_expectations/tree/main/validator) - A validator is the object responsible for running an Expectation Suite against data. 
 
 [<b> Expectation Suite </b>](https://github.com/vaishali-yasala/great_expectations/tree/main/expectationsuite) - An Expectation Suite is a collection of verifiable assertions about data.
