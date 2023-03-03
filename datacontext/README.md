@@ -18,7 +18,7 @@ In addition to all of that,  it will internally manage your Metrics, Validation 
 
 So it is important to initialize a data context when dealing with Great Expectations.
 
-### Steps to configure Instantiate a DataContext
+### Steps to Instantiate a DataContext
 
 Here, we are importing the great_expectations library package and loading DataContext into memory using the get_context() method.
 > import great_expectations as gx </br>
